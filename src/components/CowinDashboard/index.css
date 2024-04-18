@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.mainContainer {
+  padding: 10px;
+  background-color: black;
+  color: #ffffff;
+  overflow: auto;
+}
+
+.mainTitleLogoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  height: 80px;
+}
+
+.mainLogo {
+  height: 50%;
+  align-self: center;
+  margin-right: 10px;
+}
+
+.resultView {
+  text-align: center;
+}

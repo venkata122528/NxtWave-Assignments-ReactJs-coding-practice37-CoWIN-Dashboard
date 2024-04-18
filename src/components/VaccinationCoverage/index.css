@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.bars {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.title {
+  text-align: start;
+}
